@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Models
 
-### 🧠 A Collection of Machine Learning Projects by **Nishit Bhardwaj**
+### 🧠 A Collection of Machine Learning Projects by **Me Nishit Bhardwaj**
 
 Welcome to my repository of **Machine Learning projects and experiments**, showcasing end-to-end implementations of various algorithms, data preprocessing pipelines, model training workflows, and evaluation techniques.
 
